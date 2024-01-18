@@ -8,10 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I am a first-year graduate student from [School of Information and Software Engineering](https://sise.uestc.edu.cn/) (SISE), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) (UESTC). I received the B.E. degree in Software Engineering from the same institution.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+My academic journey has been shaped by a profound interest in cutting-edge areas such as searchable public-key encryption, homomorphic encryption, and cryptographic primitives. These captivating subjects have fueled my passion for exploring the realms of information security and privacy. I am very fortunate to be advised by [Professor Liao](https://sise.uestc.edu.cn/info/1036/5672.htm) of Spatial and Security Lab from [SISE](https://sise.uestc.edu.cn/) at UESTC.
+
+Feel free to explore my academic endeavors and research interests further. I look forward to engaging with like-minded individuals and contributing to the vibrant academic community.
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:XX@stu.pku.edu.cn) 
+[Email](shuhanzeng@gmail.com) 
+

@@ -14,7 +14,7 @@ My academic journey has been shaped by a profound interest in cutting-edge areas
 
 Feel free to explore my academic endeavors and research interests further. I look forward to engaging with like-minded individuals and contributing to the vibrant academic community.
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [ZengShuhan's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 [Email](shuhanzeng@gmail.com) 
 

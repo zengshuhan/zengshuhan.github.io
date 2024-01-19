@@ -11,16 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor of Engineering in Software and Engineering, University of Electronic Science and Technology of China, 2019-2023
+* Master of Engineering in Software and Engineering, University of Electronic Science and Technology of China, 2023-present
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Feb. 2022 - Aug. 2022: Frontend intern
+  * Longsys. Co., Ltd.
+  * Duties included: Actively contributed to the construction, testing, and maintenance of internal systems. Specifically focused on frontend development, I played a key role in ensuring the smooth functionality of company systems. My responsibilities included building and testing user interfaces, enhancing system usability, and providing valuable support to the Frontend team.
 
 * Fall 2015: Research Assistant
   * Github University
@@ -42,18 +40,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

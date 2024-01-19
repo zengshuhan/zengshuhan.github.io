@@ -40,10 +40,6 @@ Work experience
   * Longsys. Co., Ltd.
   * Duties included: Actively contributed to the construction, testing, and maintenance of internal systems. Specifically focused on frontend development, I played a key role in ensuring the smooth functionality of company systems. My responsibilities included building and testing user interfaces, enhancing system usability, and providing valuable support to the Frontend team.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======

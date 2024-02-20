@@ -13,7 +13,7 @@ author_profile: true
 ***-->
 
 **$\mit{2024}$**   
-[1] Huaxiu Yao\*, **Xinyu Yang\***, Xinyi Pan, Shengchao Liu, Pang Wei Koh, Chelsea Finn, **Leveraging Domain Relations for Domain Generalization**, in Proceeding of the 12th International Conference on Learning Representations (**ICLR 2024**), Vienna, Austria, May 2024 (Spotlight). [[arXiv](https://arxiv.org/abs/2302.02609)]
+[1] **Shuhan Zeng**, Yongjian Liao, Chuanhao Zhou, Jinlin He, Hongwei Wang, **A Deniably Authenticated Searchable Public Key Encryption Scheme in Mobile Electronic Mail System**, IEEE Trans. On Mobile Computing. On submission.
 
 <!--***
 

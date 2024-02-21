@@ -15,14 +15,11 @@ My academic journey has been shaped by a profound interest in cutting-edge areas
 
 # Education
 
-<img src="../images/mit2.png" alt="mit" style="zoom:9%; float: left" />&emsp; [Massachusetts Institute of Technology](https://www.mit.edu/)  
-&emsp; Research Intern, advised by Prof. [Song Han](https://songhan.mit.edu/). Nov. 2021 - Jun. 2023
-
 <img src="../images/uestc.png" alt="uestc" style="zoom:9%; float: left" />&emsp; [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/)   
-&emsp; Graduate student in Software Engineering, advised by Prof. [Yongjian Liao](https://sise.uestc.edu.cn/info/1036/5672.htm). Sep. 2023 - Present
+&emsp; Graduate student in Software Engineering, advised by Prof. [Yongjian Liao](https://sise.uestc.edu.cn/info/1036/5672.htm). Sep. 2023 - Present.
 
 <img src="../images/uestc.png" alt="uestc" style="zoom:9%; float: left" />&emsp; [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) （GPA: 3.88/4.0）   
-&emsp; B.Eng. in Software Engineering, advised by Prof. [Yongjian Liao](https://sise.uestc.edu.cn/info/1036/5672.htm). Sep. 2019 - Jun. 2023
+&emsp; B.Eng. in Software Engineering, advised by Prof. [Yongjian Liao](https://sise.uestc.edu.cn/info/1036/5672.htm). Sep. 2019 - Jun. 2023.
 
 # Publications
 **$\mit{2024}$**   

@@ -27,5 +27,9 @@ My academic journey has been shaped by a profound interest in cutting-edge areas
 <img src="../images/sjtu.png" alt="sjtu" style="zoom:9%; float: left" />&emsp; [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) （Ranking: **1/29**, GPA: 4.0/4.3）   
 &emsp; B.Eng. in CS, advised by Prof. [Yong Yu](http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=140) and [Junchi Yan](https://thinklab.sjtu.edu.cn/). Sep. 2019 - Jun. 2023
 
+# Publications
+**$\mit{2024}$**   
+[1] **Shuhan Zeng**, Yongjian Liao, Chuanhao Zhou, Jinlin He, Hongwei Wang, **A Deniably Authenticated Searchable Public Key Encryption Scheme in Mobile Electronic Mail System**, IEEE Trans. On Mobile Computing. On submission.
 
+***
 

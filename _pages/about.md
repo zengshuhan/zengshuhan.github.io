@@ -12,11 +12,5 @@ I am a first-year graduate student from [School of Information and Software Engi
 
 My academic journey has been shaped by a profound interest in cutting-edge areas such as searchable public-key encryption, homomorphic encryption, and cryptographic primitives. These captivating subjects have fueled my passion for exploring the realms of information security and privacy. I am very fortunate to be advised by [Professor Yongjian Liao](https://sise.uestc.edu.cn/info/1036/5672.htm) of Spatial and Security Lab from [SISE](https://sise.uestc.edu.cn/) at UESTC.
 <!--哈哈我是注释，不会在浏览器中显示。-->
-<!--
-Feel free to explore my academic endeavors and research interests further. I look forward to engaging with like-minded individuals and contributing to the vibrant academic community.
 
-You can find my CV here: [ZengShuhan's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
-
-[Email](shuhanzeng@gmail.com) 
--->
 

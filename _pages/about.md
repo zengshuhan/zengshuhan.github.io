@@ -17,5 +17,5 @@ Feel free to explore my academic endeavors and research interests further. I loo
 
 You can find my CV here: [ZengShuhan's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](shuhanzeng@gmail.com) -->
+[Email](shuhanzeng@gmail.com) 
 

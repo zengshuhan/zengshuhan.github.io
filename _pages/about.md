@@ -15,7 +15,6 @@ My academic journey has been shaped by a profound interest in cutting-edge areas
 
 # Education
 
-
 <img src="../images/mit2.png" alt="mit" style="zoom:9%; float: left" />&emsp; [Massachusetts Institute of Technology](https://www.mit.edu/)  
 &emsp; Research Intern, advised by Prof. [Song Han](https://songhan.mit.edu/). Nov. 2021 - Jun. 2023
 

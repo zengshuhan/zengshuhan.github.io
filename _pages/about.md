@@ -17,10 +17,10 @@ My [CV](./assets/CV.pdf) is here.
 
 # Education
 
-<img src="../images/uestc.png" alt="uestc" style="zoom:9%; float: left" />&emsp; [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/)   
+<img src="../images/uestc.png" alt="uestc" style="zoom:8%; float: left" />&emsp; [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/)   
 &emsp; Graduate student in Software Engineering, advised by Prof. [Yongjian Liao](https://sise.uestc.edu.cn/info/1036/5672.htm). Sep. 2023 - Present.
 
-<img src="../images/uestc.png" alt="uestc" style="zoom:9%; float: left" />&emsp; [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) （GPA: 3.88/4.0）   
+<img src="../images/uestc.png" alt="uestc" style="zoom:8%; float: left" />&emsp; [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) （GPA: 3.88/4.0）   
 &emsp; B.Eng. in Software Engineering, advised by Prof. [Yongjian Liao](https://sise.uestc.edu.cn/info/1036/5672.htm). Sep. 2019 - Jun. 2023.
 
 # Publications

@@ -25,7 +25,7 @@ My [CV](./assets/CV.pdf) is here.
 
 # Publications
 **$\mit{2024}$**   
-[1] **Shuhan Zeng**, Yongjian Liao, Chuanhao Zhou, Jinlin He, Hongwei Wang, **A Deniably Authenticated Searchable Public Key Encryption Scheme in Mobile Electronic Mail System**, IEEE Trans. On Mobile Computing. On submission.
+[1] **Shuhan Zeng**, Yongjian Liao, Chuanhao Zhou, Jinlin He, Hongwei Wang, **A Deniably Authenticated Searchable Public Key Encryption Scheme in Mobile Electronic Mail System**, IEEE Trans. On Mobile Computing. In submission.
 
 ***
 
